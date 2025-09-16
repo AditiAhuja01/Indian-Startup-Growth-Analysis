@@ -34,7 +34,7 @@ This project uncovers patterns in **geography, funding, sectors, founding trends
 
 ##  Key Findings
 
-### 🗺 Geographic Distribution
+###  Geographic Distribution
 - **Mumbai:** 1,736 startups  
 - **Pune:** 1,666 startups  
 - **Delhi:** 1,664 startups  
@@ -65,7 +65,7 @@ This project uncovers patterns in **geography, funding, sectors, founding trends
 - **Active:** 2,464 startups (24.6%)  
 - **IPO:** 2,478 startups (24.8%)
 
-> ⚖️ Almost evenly distributed between all statuses.
+>  Almost evenly distributed between all statuses.
 
 ---
 
@@ -82,7 +82,7 @@ This project uncovers patterns in **geography, funding, sectors, founding trends
 
 ---
 
-## ⚙ Tech Stack
+##  Tech Stack
 - **Python**
 - **Pandas / NumPy** for data manipulation
 - **Matplotlib / Seaborn** for visualizations
